@@ -1,0 +1,5 @@
+mega.py==1.0.8
+pywin32==304
+progress==1.6
+schedule==1.1.0
+colorama==0.4.4
